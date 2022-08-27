@@ -1,0 +1,6 @@
+# web site and Django tools
+Django==4.1
+docutils~=0.18
+
+# environment management
+django-environ~=0.9.0
