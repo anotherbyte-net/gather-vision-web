@@ -121,14 +121,14 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
+.local/.env
 .venv
 env/
 venv/
 ENV/
 env.bak/
 venv.bak/
-.env-test
+.local/.env-test
 .local/
 
 # Spyder project settings

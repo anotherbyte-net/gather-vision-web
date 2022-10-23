@@ -37,7 +37,6 @@ where = [
 ]
 include = [
     "gather_vision_web",
-    "steady_ground",
 ]
 
 [tool.setuptools.dynamic]
